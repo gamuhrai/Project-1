@@ -1,1 +1,1 @@
-yelp_api_key = "f4c4hvaldg1e9X_PeuV4TvjZFbtOlY4tGaiSJibfkeaTiHVgq-u19vIM-XujxzaFi66cVLv0pGPrceFRLG63_bG8ckp2Ypbs4k4OmE-pSdik4bqS23lvDOdvL2rVZHYx"
+yelp_api_key = "INSERT API KEY HERE"
