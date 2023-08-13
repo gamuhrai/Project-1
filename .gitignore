@@ -9,6 +9,9 @@ __pycache__/
 # DS_Store
 .DS_Store
 
+#API KEYS
+api_keys.py 
+
 # Distribution / packaging
 .Python
 build/
